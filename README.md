@@ -1,50 +1,48 @@
-# Welcome to your Expo app 👋
+# Ping Frontend
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A fully functional Expo React Native frontend for a voice chat messaging app designed to deliver seamless real-time voice communication. This project showcases the entire frontend implementation built with modern React Native and Expo tools, focusing on smooth audio recording, playback, and an intuitive user experience.
 
-## Get started
+---
 
-1. Install dependencies
+## Overview
 
+Ping Frontend is the complete frontend codebase for a voice messaging application developed using Expo and React Native. While the backend integration is currently paused to focus on refining product fit and market demand, this frontend stands as a robust, scalable, and performant solution for mobile voice communication.
+
+The app features an intuitive interface that enables users to record, send, and playback voice messages with ease. It demonstrates practical use of React Native hooks, state management, and audio handling in a mobile environment.
+
+---
+
+## Features
+
+- 🎙️ Voice recording and playback  
+- 📲 Responsive and clean UI optimized for mobile devices
+- 🔄 Modular and scalable architecture for easy backend integration  
+- ⚡ Smooth user interactions with real-time feedback  
+- 🧩 Built entirely with Expo and React Native  
+
+---
+
+## Tech Stack
+
+- React Native (Expo)  
+- React Hooks & Context API  
+- Expo Audio API  
+- TypeScript 
+
+---
+
+## Getting Started
+
+To run the app locally:
+
+1. Clone the repository  
    ```bash
-   npm install
-   ```
+   git clone https://github.com/alexmueller07/ping-frontend.git
 
-2. Start the app
+## Author
 
-   ```bash
-   npx expo start
-   ```
+Alexander Mueller
 
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- GitHub: [alexmueller07](https://github.com/alexmueller07)
+- LinkedIn: [Alexander Mueller](https://www.linkedin.com/in/alexander-mueller-021658307/)
+- Email: amueller.code@gmail.com
