@@ -21,6 +21,12 @@ The app features an intuitive interface that enables users to record, send, and 
 - 🧩 Built entirely with Expo and React Native  
 
 ---
+## Pages 
+Ping Map
+<img width="1125" height="2436" alt="IMG_7182" src="https://github.com/user-attachments/assets/3adda869-a55f-4305-86b2-360926f7db20" />
+
+
+---
 
 ## Tech Stack
 
